@@ -54,7 +54,7 @@ Questions or issues?
 
 If something goes wrong or the tool doesn't work as expected, feel free to open an [Issue](../../issues) and describe what happened. Screenshots are always helpful.
 
-- GitHub: github.com/shimanto008/project-name
+- GitHub: https://github.com/shimanto008/MidJourney-Automation-Tool
 - Email: shimanto.mte.ruet@gmail.com
 
 Happy prompting!
